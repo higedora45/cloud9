@@ -1,0 +1,12 @@
+{
+  "name": "nw-demo",
+  "main": "index.html",
+  "window": {
+  "show": true,
+  "frame": true,
+  "toolbar": true,
+  "icon": "app.icns",
+  "width": 480,
+  "height": 360
+  }
+}
